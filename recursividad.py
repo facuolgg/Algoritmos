@@ -50,6 +50,10 @@ def fibonacci_r(num):
         return fibonacci_r(num-1) + fibonacci_r(num-2)
 
 print(fibonacci_r(50))
+<<<<<<< HEAD
 
 print("editado desde vscode")
     
+=======
+    
+>>>>>>> 2ceea29fdff9c7b6e9e6dfec9be27d2a6c799c32
