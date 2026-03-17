@@ -50,6 +50,4 @@ def fibonacci_r(num):
         return fibonacci_r(num-1) + fibonacci_r(num-2)
 
 print(fibonacci_r(50))
-
-print("Editado desde github")
     
