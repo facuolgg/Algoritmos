@@ -51,4 +51,3 @@ def fibonacci_r(num):
 
 print(fibonacci_r(50))
     
-print ("Editado desde Visual Studio Code")
