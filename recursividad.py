@@ -113,7 +113,9 @@ print(cont(52))
 print(cont(523))
 print(cont(5234))
 
-#11) invertir número entero sin convertirlo a cadena
+#11) invertir número entero sin convertirlo a cadena de manera recursiva 
+# 321 -> 123 ->                     if n < 10 return n
+
 
 
 
