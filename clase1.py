@@ -27,7 +27,7 @@
 #print (5 * 2)
 #print (5 / 2)
 #print (5 // 2)
-#rint (5 % 2)
+#print (5 % 2)
 #print (5 ** 2)
 
 # Asignacion = --> a=10
