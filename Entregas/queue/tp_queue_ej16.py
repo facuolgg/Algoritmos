@@ -23,9 +23,6 @@ print("-" * 50)
 print("Punto C: ")
 cola_prioridad.priority_arrive("Fernando.txt", 2)
 cola_prioridad.priority_arrive("Dionisio .txt", 2)
-# while cola_prioridad.size() > 0:
-#     priority, value = cola_prioridad.priority_attention()
-#     print(value)
 print("Se cargaron dos documentos del staff de TI exitosamente.")
 
 # D
